@@ -7,7 +7,7 @@ Developed using Tableau, the dashboards are structured around detailed user stor
 ![Data Visualization](Images/data_visualization_image.png)
 *Image Credit: multiviewcorp.com*
 
-# Sales Dashboard | Requirements/User Stories | Part 1
+# Sales Dashboard | Requirements | Part 1
 
 ## Dashboard Purpose
 
@@ -35,7 +35,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 – Display the average weekly values.
 – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
-# Customer Dashboard | Requirements/User Stories | Part 2
+# Customer Dashboard | Requirements | Part 2
 
 ## Dashboard Purpose
 
@@ -78,11 +78,17 @@ Allow users to filter data by product information like category and subcategory 
 Check out the **Sales Dashboard (Part 1)** on Tableau Public using the link provided below:
 
 ![Sales Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17445279355260/SalesDashboard)
+
+Check out the screenshot of  **Sales Dashboard (Part 1)** below:
+
 ![Sales Dashboard - Screenshot](Images/sales_dashboard_image.png)
 
 Check out the **Customer Dashboard (Part 2)** on Tableau Public using the link provided below:
 
 ![Customer Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17445279355260/CustomerDashboard)
+
+Check out the screenshot of  **Customer Dashboard (Part 2)** below:
+
 ![Customer Dashboard - Screenshot](Images/customer_dashboard_image.png)
 
 ## Repository Structure
