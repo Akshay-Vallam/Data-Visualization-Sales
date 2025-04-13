@@ -75,13 +75,13 @@ Allow users to filter data by product information like category and subcategory 
 
 # Live Dashboards | Part 1 & Part 2
 
-Check out the **Sales Dashboard (Part 1)** on Tableau Public using the link provided below:
+Check out the **Sales Dashboard (Part 1)** on Tableau Public using the link provided here:
 ![Sales Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17445279355260/SalesDashboard)
 
 Check out the screenshot of  **Sales Dashboard (Part 1)** below:
 ![Sales Dashboard - Screenshot](Images/sales_dashboard_image.png)
 
-Check out the **Customer Dashboard (Part 2)** on Tableau Public using the link provided below:
+Check out the **Customer Dashboard (Part 2)** on Tableau Public using the link provided here:
 ![Customer Dashboard](https://public.tableau.com/views/SalesCustomerDashboard_17445279355260/CustomerDashboard)
 
 Check out the screenshot of  **Customer Dashboard (Part 2)** below:
