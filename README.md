@@ -2,7 +2,7 @@
 
 This project consists of two interactive dashboards designed to provide comprehensive data visualization and analysis. The first dashboard focuses on Sales Performance (Part 1), while the second centers on Customer Insights (Part 2).
 
-Developed using Tableau, the dashboards are structured around detailed user stories that define key requirements and functionalities. The objective is to support stakeholders—including sales managers and executives—in making informed, data-driven decisions by offering clear insights into both sales metrics and customer behavior.
+Developed using Tableau, the dashboards are structured around detailed user stories that define key requirements and functionalities. The objective is to support stakeholders including sales managers and executives, in making informed, data-driven decisions by offering clear insights into both sales metrics and customer behavior.
 
 ![Data Visualization](Images/data_visualization_image.png)
 *Image Credit: multiviewcorp.com*
