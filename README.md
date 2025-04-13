@@ -7,7 +7,7 @@ Developed using Tableau, the dashboards are structured around detailed user stor
 ![Data Visualization](Images/data_visualization_image.png)
 *Image Credit: multiviewcorp.com*
 
-# Sales Dashboard | Requirements - User Stories - Part 1
+# Sales Dashboard | Requirements - User Stories | Part 1
 
 ## Dashboard Purpose
 
@@ -35,7 +35,7 @@ Display a summary of total sales, profits and quantity for the current year and 
 – Display the average weekly values.
 – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
-# Customer Dashboard | Requirements - User Stories - Part 2
+# Customer Dashboard | Requirements - User Stories | Part 2
 
 ## Dashboard Purpose
 
